@@ -1,0 +1,14 @@
+C:\Projetos\Tarefas\obj\Debug\net9.0\Tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Tarefas\obj\Debug\net9.0\Tarefas.AssemblyInfoInputs.cache
+C:\Projetos\Tarefas\obj\Debug\net9.0\Tarefas.AssemblyInfo.cs
+C:\Projetos\Tarefas\obj\Debug\net9.0\Tarefas.csproj.CoreCompileInputs.cache
+C:\Projetos\Tarefas\bin\Debug\net9.0\Tarefas.exe
+C:\Projetos\Tarefas\bin\Debug\net9.0\Tarefas.deps.json
+C:\Projetos\Tarefas\bin\Debug\net9.0\Tarefas.runtimeconfig.json
+C:\Projetos\Tarefas\bin\Debug\net9.0\Tarefas.dll
+C:\Projetos\Tarefas\bin\Debug\net9.0\Tarefas.pdb
+C:\Projetos\Tarefas\obj\Debug\net9.0\Tarefas.dll
+C:\Projetos\Tarefas\obj\Debug\net9.0\refint\Tarefas.dll
+C:\Projetos\Tarefas\obj\Debug\net9.0\Tarefas.pdb
+C:\Projetos\Tarefas\obj\Debug\net9.0\Tarefas.genruntimeconfig.cache
+C:\Projetos\Tarefas\obj\Debug\net9.0\ref\Tarefas.dll
