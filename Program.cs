@@ -24,7 +24,7 @@ class Calculadora
         Console.WriteLine("O estoque médio é: " + estqMed);
     }
 
-    // Faça um algoritmo que leia a idade de uma pessoa expressa em anos e escreva a idade dessa pessoa expressa apenas em dias. 
+    // Faça um algoritmoo que leia a idade de uma pessoa expressa em anos e escreva a idade dessa pessoa expressa apenas em dias. 
 
     static void CalcularIdade()
     {
